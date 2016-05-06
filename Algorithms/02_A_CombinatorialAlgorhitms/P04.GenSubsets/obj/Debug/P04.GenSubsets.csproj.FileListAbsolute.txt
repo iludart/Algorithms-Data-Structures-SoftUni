@@ -1,0 +1,5 @@
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P04.GenSubsets\bin\Debug\P04.GenSubsets.exe.config
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P04.GenSubsets\bin\Debug\P04.GenSubsets.exe
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P04.GenSubsets\bin\Debug\P04.GenSubsets.pdb
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P04.GenSubsets\obj\Debug\P04.GenSubsets.exe
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P04.GenSubsets\obj\Debug\P04.GenSubsets.pdb

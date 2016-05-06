@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P07.ConnectedAreasInMatrix\bin\Debug\P07.ConnectedAreasInMatrix.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P07.ConnectedAreasInMatrix\bin\Debug\P07.ConnectedAreasInMatrix.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P07.ConnectedAreasInMatrix\bin\Debug\P07.ConnectedAreasInMatrix.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P07.ConnectedAreasInMatrix\obj\Debug\P07.ConnectedAreasInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P07.ConnectedAreasInMatrix\obj\Debug\P07.ConnectedAreasInMatrix.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P07.ConnectedAreasInMatrix\obj\Debug\P07.ConnectedAreasInMatrix.pdb

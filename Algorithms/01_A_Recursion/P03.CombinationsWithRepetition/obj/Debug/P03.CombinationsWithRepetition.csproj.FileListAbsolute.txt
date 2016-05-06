@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P03.CombinationsWithRepetition\bin\Debug\P03.CombinationsWithRepetition.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P03.CombinationsWithRepetition\bin\Debug\P03.CombinationsWithRepetition.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P03.CombinationsWithRepetition\bin\Debug\P03.CombinationsWithRepetition.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P03.CombinationsWithRepetition\obj\Debug\P03.CombinationsWithRepetition.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P03.CombinationsWithRepetition\obj\Debug\P03.CombinationsWithRepetition.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P03.CombinationsWithRepetition\obj\Debug\P03.CombinationsWithRepetition.pdb

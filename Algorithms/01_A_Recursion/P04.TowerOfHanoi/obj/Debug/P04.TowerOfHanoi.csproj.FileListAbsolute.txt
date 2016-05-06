@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P04.TowerOfHanoi\bin\Debug\P04.TowerOfHanoi.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P04.TowerOfHanoi\bin\Debug\P04.TowerOfHanoi.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P04.TowerOfHanoi\bin\Debug\P04.TowerOfHanoi.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P04.TowerOfHanoi\obj\Debug\P04.TowerOfHanoi.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P04.TowerOfHanoi\obj\Debug\P04.TowerOfHanoi.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P04.TowerOfHanoi\obj\Debug\P04.TowerOfHanoi.pdb

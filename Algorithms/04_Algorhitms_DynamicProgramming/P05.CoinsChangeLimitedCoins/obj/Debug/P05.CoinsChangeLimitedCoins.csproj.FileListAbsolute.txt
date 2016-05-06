@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P05.CoinsChangeLimitedCoins\bin\Debug\P05.CoinsChangeLimitedCoins.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P05.CoinsChangeLimitedCoins\bin\Debug\P05.CoinsChangeLimitedCoins.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P05.CoinsChangeLimitedCoins\bin\Debug\P05.CoinsChangeLimitedCoins.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P05.CoinsChangeLimitedCoins\obj\Debug\P05.CoinsChangeLimitedCoins.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P05.CoinsChangeLimitedCoins\obj\Debug\P05.CoinsChangeLimitedCoins.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P05.CoinsChangeLimitedCoins\obj\Debug\P05.CoinsChangeLimitedCoins.pdb

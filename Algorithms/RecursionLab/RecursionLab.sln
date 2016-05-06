@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionLab", "RecursionLab\RecursionLab.csproj", "{FA79EE0B-F210-4A39-A2F0-D6F884C1F211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightQueenProblem", "EightQueenProblem\EightQueenProblem.csproj", "{F2C29786-F2FF-41AA-9363-C07CF2504712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA79EE0B-F210-4A39-A2F0-D6F884C1F211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA79EE0B-F210-4A39-A2F0-D6F884C1F211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA79EE0B-F210-4A39-A2F0-D6F884C1F211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA79EE0B-F210-4A39-A2F0-D6F884C1F211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C29786-F2FF-41AA-9363-C07CF2504712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C29786-F2FF-41AA-9363-C07CF2504712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C29786-F2FF-41AA-9363-C07CF2504712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C29786-F2FF-41AA-9363-C07CF2504712}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P05.CombinationsWithoutRepetition\bin\Debug\P05.CombinationsWithoutRepetition.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P05.CombinationsWithoutRepetition\bin\Debug\P05.CombinationsWithoutRepetition.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P05.CombinationsWithoutRepetition\bin\Debug\P05.CombinationsWithoutRepetition.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P05.CombinationsWithoutRepetition\obj\Debug\P05.CombinationsWithoutRepetition.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P05.CombinationsWithoutRepetition\obj\Debug\P05.CombinationsWithoutRepetition.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P05.CombinationsWithoutRepetition\obj\Debug\P05.CombinationsWithoutRepetition.pdb

@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\05_A_GraphAlgorithms\P03.CyclesInGraph\bin\Debug\P03.CyclesInGraph.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\05_A_GraphAlgorithms\P03.CyclesInGraph\bin\Debug\P03.CyclesInGraph.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\05_A_GraphAlgorithms\P03.CyclesInGraph\bin\Debug\P03.CyclesInGraph.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\05_A_GraphAlgorithms\P03.CyclesInGraph\obj\Debug\P03.CyclesInGraph.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\05_A_GraphAlgorithms\P03.CyclesInGraph\obj\Debug\P03.CyclesInGraph.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\05_A_GraphAlgorithms\P03.CyclesInGraph\obj\Debug\P03.CyclesInGraph.pdb

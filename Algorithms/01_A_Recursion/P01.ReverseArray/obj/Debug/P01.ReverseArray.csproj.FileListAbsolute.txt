@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P01.ReverseArray\bin\Debug\P01.ReverseArray.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P01.ReverseArray\bin\Debug\P01.ReverseArray.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P01.ReverseArray\bin\Debug\P01.ReverseArray.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P01.ReverseArray\obj\Debug\P01.ReverseArray.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P01.ReverseArray\obj\Debug\P01.ReverseArray.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P01.ReverseArray\obj\Debug\P01.ReverseArray.pdb

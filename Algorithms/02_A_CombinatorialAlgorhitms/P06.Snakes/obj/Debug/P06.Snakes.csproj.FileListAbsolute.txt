@@ -1,0 +1,6 @@
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P06.Snakes\bin\Debug\P06.Snakes.exe.config
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P06.Snakes\bin\Debug\P06.Snakes.exe
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P06.Snakes\bin\Debug\P06.Snakes.pdb
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P06.Snakes\obj\Debug\P06.Snakes.csprojResolveAssemblyReference.cache
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P06.Snakes\obj\Debug\P06.Snakes.exe
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P06.Snakes\obj\Debug\P06.Snakes.pdb

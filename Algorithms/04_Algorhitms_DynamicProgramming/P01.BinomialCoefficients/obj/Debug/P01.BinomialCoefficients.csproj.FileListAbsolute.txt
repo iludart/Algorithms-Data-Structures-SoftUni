@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P01.BinomialCoefficients\bin\Debug\P01.BinomialCoefficients.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P01.BinomialCoefficients\bin\Debug\P01.BinomialCoefficients.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P01.BinomialCoefficients\bin\Debug\P01.BinomialCoefficients.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P01.BinomialCoefficients\obj\Debug\P01.BinomialCoefficients.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P01.BinomialCoefficients\obj\Debug\P01.BinomialCoefficients.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P01.BinomialCoefficients\obj\Debug\P01.BinomialCoefficients.pdb

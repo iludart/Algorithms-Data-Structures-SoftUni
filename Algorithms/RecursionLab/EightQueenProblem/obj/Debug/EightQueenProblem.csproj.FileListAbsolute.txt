@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\RecursionLab\EightQueenProblem\bin\Debug\EightQueenProblem.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\RecursionLab\EightQueenProblem\bin\Debug\EightQueenProblem.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\RecursionLab\EightQueenProblem\bin\Debug\EightQueenProblem.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\RecursionLab\EightQueenProblem\obj\Debug\EightQueenProblem.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\RecursionLab\EightQueenProblem\obj\Debug\EightQueenProblem.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\RecursionLab\EightQueenProblem\obj\Debug\EightQueenProblem.pdb

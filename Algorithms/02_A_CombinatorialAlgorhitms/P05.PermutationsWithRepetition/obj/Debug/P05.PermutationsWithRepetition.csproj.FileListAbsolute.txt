@@ -1,0 +1,6 @@
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P05.PermutationsWithRepetition\bin\Debug\P05.PermutationsWithRepetition.exe.config
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P05.PermutationsWithRepetition\bin\Debug\P05.PermutationsWithRepetition.exe
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P05.PermutationsWithRepetition\bin\Debug\P05.PermutationsWithRepetition.pdb
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P05.PermutationsWithRepetition\obj\Debug\P05.PermutationsWithRepetition.csprojResolveAssemblyReference.cache
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P05.PermutationsWithRepetition\obj\Debug\P05.PermutationsWithRepetition.exe
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P05.PermutationsWithRepetition\obj\Debug\P05.PermutationsWithRepetition.pdb

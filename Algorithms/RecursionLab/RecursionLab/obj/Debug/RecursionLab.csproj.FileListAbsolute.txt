@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\RecursionLab\RecursionLab\bin\Debug\RecursionLab.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\RecursionLab\RecursionLab\bin\Debug\RecursionLab.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\RecursionLab\RecursionLab\bin\Debug\RecursionLab.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\RecursionLab\RecursionLab\obj\Debug\RecursionLab.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\RecursionLab\RecursionLab\obj\Debug\RecursionLab.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\RecursionLab\RecursionLab\obj\Debug\RecursionLab.pdb

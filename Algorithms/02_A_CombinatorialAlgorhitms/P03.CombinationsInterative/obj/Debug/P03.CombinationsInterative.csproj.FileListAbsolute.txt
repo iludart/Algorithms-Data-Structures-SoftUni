@@ -1,0 +1,6 @@
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P03.CombinationsInterative\bin\Debug\P03.CombinationsInterative.exe.config
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P03.CombinationsInterative\bin\Debug\P03.CombinationsInterative.exe
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P03.CombinationsInterative\bin\Debug\P03.CombinationsInterative.pdb
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P03.CombinationsInterative\obj\Debug\P03.CombinationsInterative.csprojResolveAssemblyReference.cache
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P03.CombinationsInterative\obj\Debug\P03.CombinationsInterative.exe
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P03.CombinationsInterative\obj\Debug\P03.CombinationsInterative.pdb

@@ -1,0 +1,5 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P06.PathsBetweenCellsInMatrix\bin\Debug\P06.PathsBetweenCellsInMatrix.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P06.PathsBetweenCellsInMatrix\bin\Debug\P06.PathsBetweenCellsInMatrix.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P06.PathsBetweenCellsInMatrix\bin\Debug\P06.PathsBetweenCellsInMatrix.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P06.PathsBetweenCellsInMatrix\obj\Debug\P06.PathsBetweenCellsInMatrix.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P06.PathsBetweenCellsInMatrix\obj\Debug\P06.PathsBetweenCellsInMatrix.pdb

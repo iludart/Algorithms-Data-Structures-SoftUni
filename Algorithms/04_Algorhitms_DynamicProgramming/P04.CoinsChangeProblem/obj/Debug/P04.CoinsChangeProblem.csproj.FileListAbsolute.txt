@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P04.CoinsChangeProblem\bin\Debug\P04.CoinsChangeProblem.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P04.CoinsChangeProblem\bin\Debug\P04.CoinsChangeProblem.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P04.CoinsChangeProblem\bin\Debug\P04.CoinsChangeProblem.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P04.CoinsChangeProblem\obj\Debug\P04.CoinsChangeProblem.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P04.CoinsChangeProblem\obj\Debug\P04.CoinsChangeProblem.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P04.CoinsChangeProblem\obj\Debug\P04.CoinsChangeProblem.pdb

@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P02.NestedLoopToRecursion\bin\Debug\P02.NestedLoopToRecursion.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P02.NestedLoopToRecursion\bin\Debug\P02.NestedLoopToRecursion.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P02.NestedLoopToRecursion\bin\Debug\P02.NestedLoopToRecursion.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P02.NestedLoopToRecursion\obj\Debug\P02.NestedLoopToRecursion.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P02.NestedLoopToRecursion\obj\Debug\P02.NestedLoopToRecursion.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\01_A_Recursion\P02.NestedLoopToRecursion\obj\Debug\P02.NestedLoopToRecursion.pdb

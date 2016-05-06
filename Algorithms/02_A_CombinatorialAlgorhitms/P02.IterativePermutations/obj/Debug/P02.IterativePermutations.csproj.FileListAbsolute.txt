@@ -1,0 +1,6 @@
+c:\users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P02.IterativePermutations\bin\Debug\P02.IterativePermutations.exe.config
+c:\users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P02.IterativePermutations\bin\Debug\P02.IterativePermutations.exe
+c:\users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P02.IterativePermutations\bin\Debug\P02.IterativePermutations.pdb
+c:\users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P02.IterativePermutations\obj\Debug\P02.IterativePermutations.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P02.IterativePermutations\obj\Debug\P02.IterativePermutations.exe
+c:\users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P02.IterativePermutations\obj\Debug\P02.IterativePermutations.pdb

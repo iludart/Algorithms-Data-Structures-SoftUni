@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\05_A_GraphAlgorithms\P04.Salaries\bin\Debug\P04.Salaries.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\05_A_GraphAlgorithms\P04.Salaries\bin\Debug\P04.Salaries.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\05_A_GraphAlgorithms\P04.Salaries\bin\Debug\P04.Salaries.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\05_A_GraphAlgorithms\P04.Salaries\obj\Debug\P04.Salaries.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\05_A_GraphAlgorithms\P04.Salaries\obj\Debug\P04.Salaries.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\05_A_GraphAlgorithms\P04.Salaries\obj\Debug\P04.Salaries.pdb

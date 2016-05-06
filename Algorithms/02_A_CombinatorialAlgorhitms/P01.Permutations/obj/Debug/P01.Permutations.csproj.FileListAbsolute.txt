@@ -1,0 +1,6 @@
+c:\users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P01.Permutations\bin\Debug\P01.Permutations.exe.config
+c:\users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P01.Permutations\bin\Debug\P01.Permutations.exe
+c:\users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P01.Permutations\bin\Debug\P01.Permutations.pdb
+c:\users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P01.Permutations\obj\Debug\P01.Permutations.exe
+c:\users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P01.Permutations\obj\Debug\P01.Permutations.pdb
+C:\Users\peter\documents\visual studio 2015\Projects\02_A_CombinatorialAlgorhitms\P01.Permutations\obj\Debug\P01.Permutations.csprojResolveAssemblyReference.cache

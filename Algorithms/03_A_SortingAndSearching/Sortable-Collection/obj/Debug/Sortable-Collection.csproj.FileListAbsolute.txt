@@ -1,0 +1,6 @@
+C:\Trash\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection\bin\Debug\01.Students-And-Courses.exe.config
+C:\Trash\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection\bin\Debug\01.Students-And-Courses.exe
+C:\Trash\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection\bin\Debug\01.Students-And-Courses.pdb
+C:\Trash\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection\obj\Debug\01.Students-And-Courses.exe
+C:\Trash\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection\obj\Debug\01.Students-And-Courses.pdb
+C:\Trash\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection\obj\Debug\Sortable-Collection.csprojResolveAssemblyReference.cache

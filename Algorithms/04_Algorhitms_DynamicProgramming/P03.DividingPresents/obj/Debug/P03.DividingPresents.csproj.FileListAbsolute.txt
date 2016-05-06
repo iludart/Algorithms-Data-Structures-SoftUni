@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P03.DividingPresents\bin\Debug\P03.DividingPresents.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P03.DividingPresents\bin\Debug\P03.DividingPresents.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P03.DividingPresents\bin\Debug\P03.DividingPresents.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P03.DividingPresents\obj\Debug\P03.DividingPresents.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P03.DividingPresents\obj\Debug\P03.DividingPresents.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\Algorithms\04_Algorhitms_DynamicProgramming\P03.DividingPresents\obj\Debug\P03.DividingPresents.pdb
