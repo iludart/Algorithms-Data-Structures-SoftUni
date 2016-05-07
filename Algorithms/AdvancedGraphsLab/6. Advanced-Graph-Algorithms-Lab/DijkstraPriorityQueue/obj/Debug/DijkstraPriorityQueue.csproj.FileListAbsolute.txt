@@ -10,3 +10,9 @@ C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\Dijk
 C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\obj\Debug\DijkstraPriorityQueue.csprojResolveAssemblyReference.cache
 C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\obj\Debug\Dijkstra.exe
 C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\obj\Debug\Dijkstra.pdb
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\bin\Debug\Dijkstra.exe.config
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\bin\Debug\Dijkstra.exe
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\bin\Debug\Dijkstra.pdb
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\obj\Debug\DijkstraPriorityQueue.csprojResolveAssemblyReference.cache
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\obj\Debug\Dijkstra.exe
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\obj\Debug\Dijkstra.pdb

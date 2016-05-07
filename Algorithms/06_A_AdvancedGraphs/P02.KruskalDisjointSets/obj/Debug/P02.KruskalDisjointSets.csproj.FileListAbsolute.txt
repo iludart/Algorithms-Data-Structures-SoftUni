@@ -1,0 +1,5 @@
+C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P02.KruskalDisjointSets\bin\Debug\P02.KruskalDisjointSets.exe.config
+C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P02.KruskalDisjointSets\bin\Debug\P02.KruskalDisjointSets.exe
+C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P02.KruskalDisjointSets\bin\Debug\P02.KruskalDisjointSets.pdb
+C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P02.KruskalDisjointSets\obj\Debug\P02.KruskalDisjointSets.exe
+C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P02.KruskalDisjointSets\obj\Debug\P02.KruskalDisjointSets.pdb

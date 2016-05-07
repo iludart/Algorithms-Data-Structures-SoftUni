@@ -14,3 +14,11 @@ C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\Dijk
 C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\obj\Debug\DijkstraPriorityQueue.Tests.csprojResolveAssemblyReference.cache
 C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\obj\Debug\Dijkstra.Tests.dll
 C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\obj\Debug\Dijkstra.Tests.pdb
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.Tests.dll
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.Tests.pdb
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.exe
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.pdb
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\obj\Debug\DijkstraPriorityQueue.Tests.csprojResolveAssemblyReference.cache
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\obj\Debug\Dijkstra.Tests.dll
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\obj\Debug\Dijkstra.Tests.pdb

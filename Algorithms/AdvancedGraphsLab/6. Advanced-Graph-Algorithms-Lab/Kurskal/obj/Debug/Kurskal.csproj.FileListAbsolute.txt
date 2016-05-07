@@ -10,3 +10,9 @@ C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\Kurs
 C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.exe
 C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.pdb
 C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.csprojResolveAssemblyReference.cache
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.exe.config
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.exe
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.pdb
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.exe
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.pdb
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.csprojResolveAssemblyReference.cache

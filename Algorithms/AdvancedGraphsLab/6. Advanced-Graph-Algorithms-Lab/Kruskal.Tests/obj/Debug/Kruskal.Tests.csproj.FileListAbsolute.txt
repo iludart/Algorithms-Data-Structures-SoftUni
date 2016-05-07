@@ -14,3 +14,11 @@ C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\Krus
 C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.csprojResolveAssemblyReference.cache
 C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.dll
 C:\Thrash\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.pdb
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kruskal.Tests.dll
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kruskal.Tests.pdb
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kurskal.exe
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kurskal.pdb
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.csprojResolveAssemblyReference.cache
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.dll
+C:\GIT\Homework\Algorithms\AdvancedGraphsLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.pdb
