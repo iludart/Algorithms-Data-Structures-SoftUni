@@ -3,3 +3,11 @@ C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P01_ExtendCableNetwork\bin\Debug\
 C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P01_ExtendCableNetwork\bin\Debug\P01_ExtendCableNetwork.pdb
 C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P01_ExtendCableNetwork\obj\Debug\P01_ExtendCableNetwork.exe
 C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P01_ExtendCableNetwork\obj\Debug\P01_ExtendCableNetwork.pdb
+C:\GIT\Algorithms\06_A_AdvancedGraphs\P01_ExtendCableNetwork\bin\Debug\P01_ExtendCableNetwork.exe.config
+C:\GIT\Algorithms\06_A_AdvancedGraphs\P01_ExtendCableNetwork\obj\Debug\P01_ExtendCableNetwork.exe
+C:\GIT\Algorithms\06_A_AdvancedGraphs\P01_ExtendCableNetwork\obj\Debug\P01_ExtendCableNetwork.pdb
+C:\GIT\Algorithms\06_A_AdvancedGraphs\P01_ExtendCableNetwork\bin\Debug\P01_ExtendCableNetwork.exe
+C:\GIT\Algorithms\06_A_AdvancedGraphs\P01_ExtendCableNetwork\bin\Debug\P01_ExtendCableNetwork.pdb
+C:\GIT\Algorithms\06_A_AdvancedGraphs\P01_ExtendCableNetwork\bin\Debug\Dijkstra.exe
+C:\GIT\Algorithms\06_A_AdvancedGraphs\P01_ExtendCableNetwork\bin\Debug\Dijkstra.pdb
+C:\GIT\Algorithms\06_A_AdvancedGraphs\P01_ExtendCableNetwork\obj\Debug\P01.ExtendCableNetwork.csprojResolveAssemblyReference.cache

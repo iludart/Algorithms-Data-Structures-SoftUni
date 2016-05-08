@@ -1,8 +1,6 @@
-C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P00.PriorityQueue\bin\Debug\P00.PriorityQueue.exe.config
-C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P00.PriorityQueue\bin\Debug\P00.PriorityQueue.exe
-C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P00.PriorityQueue\bin\Debug\P00.PriorityQueue.pdb
-C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P00.PriorityQueue\bin\Debug\PowerCollections.dll
-C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P00.PriorityQueue\bin\Debug\PowerCollections.xml
-C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P00.PriorityQueue\obj\Debug\P00.PriorityQueue.csprojResolveAssemblyReference.cache
-C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P00.PriorityQueue\obj\Debug\P00.PriorityQueue.exe
-C:\GIT\Homework\Algorithms\06_A_AdvancedGraphs\P00.PriorityQueue\obj\Debug\P00.PriorityQueue.pdb
+C:\GIT\Algorithms\06_A_AdvancedGraphs\P00.PriorityQueue\bin\Debug\Dijkstra.exe.config
+C:\GIT\Algorithms\06_A_AdvancedGraphs\P00.PriorityQueue\obj\Debug\Dijkstra.exe
+C:\GIT\Algorithms\06_A_AdvancedGraphs\P00.PriorityQueue\obj\Debug\Dijkstra.pdb
+C:\GIT\Algorithms\06_A_AdvancedGraphs\P00.PriorityQueue\bin\Debug\Dijkstra.exe
+C:\GIT\Algorithms\06_A_AdvancedGraphs\P00.PriorityQueue\bin\Debug\Dijkstra.pdb
+C:\GIT\Algorithms\06_A_AdvancedGraphs\P00.PriorityQueue\obj\Debug\P00.PriorityQueue.csprojResolveAssemblyReference.cache

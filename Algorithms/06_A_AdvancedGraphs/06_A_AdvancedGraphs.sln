@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.ExtendCableNetwork", "P01_ExtendCableNetwork\P01.ExtendCableNetwork.csproj", "{EAB9AA60-9909-43EB-8D41-3E6B3D7BB7A7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P00.BFS", "P00.BFS\P00.BFS.csproj", "{E57D77B0-B52D-4D1C-A274-FD6C9876CC3C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.KruskalDisjointSets", "P02.KruskalDisjointSets\P02.KruskalDisjointSets.csproj", "{DB653E25-6D95-49A8-8103-35ABE851DB43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P00.PriorityQueue", "P00.PriorityQueue\P00.PriorityQueue.csproj", "{1D4A72DE-702A-472A-BA48-AC1BCF4D7B8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{DB653E25-6D95-49A8-8103-35ABE851DB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB653E25-6D95-49A8-8103-35ABE851DB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB653E25-6D95-49A8-8103-35ABE851DB43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D4A72DE-702A-472A-BA48-AC1BCF4D7B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4A72DE-702A-472A-BA48-AC1BCF4D7B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4A72DE-702A-472A-BA48-AC1BCF4D7B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4A72DE-702A-472A-BA48-AC1BCF4D7B8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

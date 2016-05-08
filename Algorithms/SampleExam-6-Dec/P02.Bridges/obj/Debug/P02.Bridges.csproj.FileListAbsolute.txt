@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\SampleExam-6-Dec\P02.Bridges\bin\Debug\P02.Bridges.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\SampleExam-6-Dec\P02.Bridges\bin\Debug\P02.Bridges.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\SampleExam-6-Dec\P02.Bridges\bin\Debug\P02.Bridges.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\SampleExam-6-Dec\P02.Bridges\obj\Debug\P02.Bridges.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\SampleExam-6-Dec\P02.Bridges\obj\Debug\P02.Bridges.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\SampleExam-6-Dec\P02.Bridges\obj\Debug\P02.Bridges.pdb

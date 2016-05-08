@@ -1,30 +1,30 @@
-﻿using System;
-
-namespace KruskalDisjointSets
+﻿namespace KruskalDisjointSets
 {
-    public class Node : IComparable<Node>
+    using System;
+
+    public class Node<T> where T : IComparable<T>
     {
-        public Node(int value)
+        public Node(T value)
         {
             this.Value = value;
             this.Parent = this;
             this.Rank = 0;
         }
 
-        public Node Parent { get; set; }
+        public Node<T> Parent { get; set; }
 
-        public int Value { get; set; }
+        public T Value { get; set; }
 
         public int Rank { get; set; }
-
-        public int CompareTo(Node other)
-        {
-            return this.Value.CompareTo(other.Value);
-        }
 
         public override string ToString()
         {
             return base.ToString();
+        }
+
+        public int CompareTo(Node<T> other)
+        {
+            return this.Value.CompareTo(other.Value);
         }
     }
 }

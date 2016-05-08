@@ -1,27 +1,25 @@
-﻿using System;
-
-namespace P00.PriorityQueue
+﻿namespace PQueue
 {
+    using System;
+
     public class Node : IComparable<Node>
     {
-        public Node()
+        // set default value for the distance equal to positive infinity
+        public Node(int id, double distance = double.PositiveInfinity)
         {
-            this.Parent = null;
-            this.Distance = int.MaxValue;
+            this.Id = id;
+            this.DistanceFromStart = distance;
         }
+
+        public int Id { get; set; }
+
+        public double DistanceFromStart { get; set; }
 
         public Node Parent { get; set; }
 
-        public int Distance { get; set; }
-
         public int CompareTo(Node other)
         {
-            return this.Distance.CompareTo(other.Distance);
-        }
-
-        public override string ToString()
-        {
-            return this.Distance.ToString();
+            return this.DistanceFromStart.CompareTo(other.DistanceFromStart);
         }
     }
 }
