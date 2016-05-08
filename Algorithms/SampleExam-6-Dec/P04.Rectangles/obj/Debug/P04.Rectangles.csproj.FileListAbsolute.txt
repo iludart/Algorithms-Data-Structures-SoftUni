@@ -1,0 +1,6 @@
+C:\GIT\Algorithms\SampleExam-6-Dec\P04.Rectangles\bin\Debug\P04.Rectangles.exe.config
+C:\GIT\Algorithms\SampleExam-6-Dec\P04.Rectangles\bin\Debug\P04.Rectangles.exe
+C:\GIT\Algorithms\SampleExam-6-Dec\P04.Rectangles\bin\Debug\P04.Rectangles.pdb
+C:\GIT\Algorithms\SampleExam-6-Dec\P04.Rectangles\obj\Debug\P04.Rectangles.csprojResolveAssemblyReference.cache
+C:\GIT\Algorithms\SampleExam-6-Dec\P04.Rectangles\obj\Debug\P04.Rectangles.exe
+C:\GIT\Algorithms\SampleExam-6-Dec\P04.Rectangles\obj\Debug\P04.Rectangles.pdb

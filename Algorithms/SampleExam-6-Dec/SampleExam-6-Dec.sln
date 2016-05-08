@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.SequencesOfLimitedSum",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.Bridges", "P02.Bridges\P02.Bridges.csproj", "{D324BE88-5401-4DEC-932B-3A00461FDE9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.Messages", "P03.Messages\P03.Messages.csproj", "{33B338EC-ECAD-4167-AAEE-369DBA4947FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.Rectangles", "P04.Rectangles\P04.Rectangles.csproj", "{46ADEFE3-374A-4D61-8495-F0F0E4F237F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{D324BE88-5401-4DEC-932B-3A00461FDE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D324BE88-5401-4DEC-932B-3A00461FDE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D324BE88-5401-4DEC-932B-3A00461FDE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B338EC-ECAD-4167-AAEE-369DBA4947FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B338EC-ECAD-4167-AAEE-369DBA4947FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B338EC-ECAD-4167-AAEE-369DBA4947FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B338EC-ECAD-4167-AAEE-369DBA4947FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46ADEFE3-374A-4D61-8495-F0F0E4F237F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46ADEFE3-374A-4D61-8495-F0F0E4F237F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46ADEFE3-374A-4D61-8495-F0F0E4F237F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46ADEFE3-374A-4D61-8495-F0F0E4F237F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

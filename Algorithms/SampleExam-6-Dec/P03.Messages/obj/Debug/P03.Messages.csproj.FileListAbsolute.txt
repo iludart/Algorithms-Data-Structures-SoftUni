@@ -1,0 +1,6 @@
+C:\GIT\Algorithms\SampleExam-6-Dec\P03.Messages\bin\Debug\P03.Messages.exe.config
+C:\GIT\Algorithms\SampleExam-6-Dec\P03.Messages\bin\Debug\P03.Messages.exe
+C:\GIT\Algorithms\SampleExam-6-Dec\P03.Messages\bin\Debug\P03.Messages.pdb
+C:\GIT\Algorithms\SampleExam-6-Dec\P03.Messages\obj\Debug\P03.Messages.csprojResolveAssemblyReference.cache
+C:\GIT\Algorithms\SampleExam-6-Dec\P03.Messages\obj\Debug\P03.Messages.exe
+C:\GIT\Algorithms\SampleExam-6-Dec\P03.Messages\obj\Debug\P03.Messages.pdb

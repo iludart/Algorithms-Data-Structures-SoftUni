@@ -4,3 +4,6 @@ C:\Users\peter\Documents\Visual Studio 2015\Projects\SampleExam-6-Dec\P01.Sequen
 C:\Users\peter\Documents\Visual Studio 2015\Projects\SampleExam-6-Dec\P01.SequencesOfLimitedSum\obj\Debug\P01.SequencesOfLimitedSum.csprojResolveAssemblyReference.cache
 C:\Users\peter\Documents\Visual Studio 2015\Projects\SampleExam-6-Dec\P01.SequencesOfLimitedSum\obj\Debug\P01.SequencesOfLimitedSum.exe
 C:\Users\peter\Documents\Visual Studio 2015\Projects\SampleExam-6-Dec\P01.SequencesOfLimitedSum\obj\Debug\P01.SequencesOfLimitedSum.pdb
+C:\GIT\Algorithms\SampleExam-6-Dec\P01.SequencesOfLimitedSum\bin\Debug\P01.SequencesOfLimitedSum.exe.config
+C:\GIT\Algorithms\SampleExam-6-Dec\P01.SequencesOfLimitedSum\obj\Debug\P01.SequencesOfLimitedSum.exe
+C:\GIT\Algorithms\SampleExam-6-Dec\P01.SequencesOfLimitedSum\obj\Debug\P01.SequencesOfLimitedSum.pdb
