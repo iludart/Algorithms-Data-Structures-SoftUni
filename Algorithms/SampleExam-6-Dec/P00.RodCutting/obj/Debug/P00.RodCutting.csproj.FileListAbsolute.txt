@@ -1,0 +1,6 @@
+C:\GIT\Algorithms\SampleExam-6-Dec\P00.RodCutting\bin\Debug\P00.RodCutting.exe.config
+C:\GIT\Algorithms\SampleExam-6-Dec\P00.RodCutting\bin\Debug\P00.RodCutting.exe
+C:\GIT\Algorithms\SampleExam-6-Dec\P00.RodCutting\bin\Debug\P00.RodCutting.pdb
+C:\GIT\Algorithms\SampleExam-6-Dec\P00.RodCutting\obj\Debug\P00.RodCutting.csprojResolveAssemblyReference.cache
+C:\GIT\Algorithms\SampleExam-6-Dec\P00.RodCutting\obj\Debug\P00.RodCutting.exe
+C:\GIT\Algorithms\SampleExam-6-Dec\P00.RodCutting\obj\Debug\P00.RodCutting.pdb

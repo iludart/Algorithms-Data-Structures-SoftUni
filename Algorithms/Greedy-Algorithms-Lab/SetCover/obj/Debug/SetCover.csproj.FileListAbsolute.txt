@@ -1,0 +1,11 @@
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.exe.config
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.exe
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\obj\Debug\SetCover.exe
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\obj\Debug\SetCover.pdb
+C:\Trash\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.exe.config
+C:\Trash\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\obj\Debug\SetCover.exe
+C:\Trash\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\obj\Debug\SetCover.pdb
+C:\Trash\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.exe
+C:\Trash\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.pdb
+C:\Trash\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\obj\Debug\SetCover.csprojResolveAssemblyReference.cache
