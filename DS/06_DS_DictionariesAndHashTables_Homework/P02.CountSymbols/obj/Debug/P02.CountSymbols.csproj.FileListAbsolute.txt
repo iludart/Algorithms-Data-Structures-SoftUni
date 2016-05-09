@@ -1,0 +1,8 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P02.CountSymbols\bin\Debug\P02.CountSymbols.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P02.CountSymbols\bin\Debug\P02.CountSymbols.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P02.CountSymbols\bin\Debug\P02.CountSymbols.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P02.CountSymbols\bin\Debug\P01.Dictionary.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P02.CountSymbols\bin\Debug\P01.Dictionary.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P02.CountSymbols\obj\Debug\P02.CountSymbols.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P02.CountSymbols\obj\Debug\P02.CountSymbols.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P02.CountSymbols\obj\Debug\P02.CountSymbols.pdb

@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P06.ReversedList\bin\Debug\P06.ReversedList.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P06.ReversedList\bin\Debug\P06.ReversedList.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P06.ReversedList\bin\Debug\P06.ReversedList.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P06.ReversedList\obj\Debug\P06.ReversedList.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P06.ReversedList\obj\Debug\P06.ReversedList.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P06.ReversedList\obj\Debug\P06.ReversedList.pdb

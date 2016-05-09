@@ -1,0 +1,10 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter.Tests\bin\Debug\ShoppingCenter.Tests.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter.Tests\bin\Debug\ShoppingCenter.Tests.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter.Tests\bin\Debug\ShoppingCenter.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter.Tests\bin\Debug\PowerCollections.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter.Tests\bin\Debug\ShoppingCenter.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter.Tests\bin\Debug\PowerCollections.xml
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter.Tests\obj\Debug\ShoppingCenter.Tests.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter.Tests\obj\Debug\ShoppingCenter.Tests.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter.Tests\obj\Debug\ShoppingCenter.Tests.pdb

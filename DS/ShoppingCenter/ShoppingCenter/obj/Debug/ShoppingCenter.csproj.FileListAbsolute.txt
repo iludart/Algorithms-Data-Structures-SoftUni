@@ -1,0 +1,8 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter\bin\Debug\ShoppingCenter.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter\bin\Debug\ShoppingCenter.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter\bin\Debug\ShoppingCenter.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter\bin\Debug\PowerCollections.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter\bin\Debug\PowerCollections.xml
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter\obj\Debug\ShoppingCenter.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter\obj\Debug\ShoppingCenter.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\ShoppingCenter\ShoppingCenter\obj\Debug\ShoppingCenter.pdb

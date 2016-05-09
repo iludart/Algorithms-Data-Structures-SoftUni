@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P01.StudentsAndCourses\bin\Debug\P01.StudentsAndCourses.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P01.StudentsAndCourses\bin\Debug\P01.StudentsAndCourses.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P01.StudentsAndCourses\bin\Debug\P01.StudentsAndCourses.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P01.StudentsAndCourses\obj\Debug\P01.StudentsAndCourses.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P01.StudentsAndCourses\obj\Debug\P01.StudentsAndCourses.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P01.StudentsAndCourses\obj\Debug\P01.StudentsAndCourses.pdb

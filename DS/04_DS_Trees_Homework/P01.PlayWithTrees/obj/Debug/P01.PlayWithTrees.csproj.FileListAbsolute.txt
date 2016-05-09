@@ -1,0 +1,8 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P01.PlayWithTrees\bin\Debug\P01.PlayWithTrees.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P01.PlayWithTrees\bin\Debug\P01.PlayWithTrees.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P01.PlayWithTrees\bin\Debug\P01.PlayWithTrees.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P01.PlayWithTrees\bin\Debug\04_DS_Trees_Homework.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P01.PlayWithTrees\bin\Debug\04_DS_Trees_Homework.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P01.PlayWithTrees\obj\Debug\P01.PlayWithTrees.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P01.PlayWithTrees\obj\Debug\P01.PlayWithTrees.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P01.PlayWithTrees\obj\Debug\P01.PlayWithTrees.pdb

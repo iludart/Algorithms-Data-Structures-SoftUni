@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P07.LinkedList\bin\Debug\P07.LinkedList.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P07.LinkedList\bin\Debug\P07.LinkedList.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P07.LinkedList\bin\Debug\P07.LinkedList.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P07.LinkedList\obj\Debug\P07.LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P07.LinkedList\obj\Debug\P07.LinkedList.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P07.LinkedList\obj\Debug\P07.LinkedList.pdb

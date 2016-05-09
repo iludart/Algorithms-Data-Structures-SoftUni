@@ -1,0 +1,8 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P01.AvlTree.Tests\obj\Debug\P01.AvlTree.Tests.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P01.AvlTree.Tests\bin\Debug\P01.AvlTree.Tests.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P01.AvlTree.Tests\bin\Debug\P01.AvlTree.Tests.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P01.AvlTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P01.AvlTree.Tests\bin\Debug\P01.AvlTree.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P01.AvlTree.Tests\bin\Debug\P01.AvlTree.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P01.AvlTree.Tests\obj\Debug\P01.AvlTree.Tests.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P01.AvlTree.Tests\obj\Debug\P01.AvlTree.Tests.pdb

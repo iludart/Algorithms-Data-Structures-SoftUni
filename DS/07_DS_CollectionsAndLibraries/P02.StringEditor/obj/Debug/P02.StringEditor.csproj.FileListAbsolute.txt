@@ -1,0 +1,8 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\07_DS_CollectionsAndLibraries\P02.StringEditor\bin\Debug\P02.StringEditor.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\07_DS_CollectionsAndLibraries\P02.StringEditor\bin\Debug\P02.StringEditor.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\07_DS_CollectionsAndLibraries\P02.StringEditor\bin\Debug\P02.StringEditor.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\07_DS_CollectionsAndLibraries\P02.StringEditor\bin\Debug\PowerCollections.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\07_DS_CollectionsAndLibraries\P02.StringEditor\bin\Debug\PowerCollections.xml
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\07_DS_CollectionsAndLibraries\P02.StringEditor\obj\Debug\P02.StringEditor.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\07_DS_CollectionsAndLibraries\P02.StringEditor\obj\Debug\P02.StringEditor.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\07_DS_CollectionsAndLibraries\P02.StringEditor\obj\Debug\P02.StringEditor.pdb

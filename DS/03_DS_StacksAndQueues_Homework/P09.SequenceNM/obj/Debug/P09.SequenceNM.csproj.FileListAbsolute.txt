@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P09.SequenceNM\bin\Debug\P09.SequenceNM.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P09.SequenceNM\bin\Debug\P09.SequenceNM.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P09.SequenceNM\bin\Debug\P09.SequenceNM.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P09.SequenceNM\obj\Debug\P09.SequenceNM.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P09.SequenceNM\obj\Debug\P09.SequenceNM.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P09.SequenceNM\obj\Debug\P09.SequenceNM.csprojResolveAssemblyReference.cache

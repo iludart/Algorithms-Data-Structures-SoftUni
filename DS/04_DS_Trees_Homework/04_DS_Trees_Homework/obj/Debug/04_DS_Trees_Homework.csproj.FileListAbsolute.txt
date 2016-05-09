@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\04_DS_Trees_Homework\bin\Debug\04_DS_Trees_Homework.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\04_DS_Trees_Homework\bin\Debug\04_DS_Trees_Homework.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\04_DS_Trees_Homework\bin\Debug\04_DS_Trees_Homework.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\04_DS_Trees_Homework\obj\Debug\04_DS_Trees_Homework.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\04_DS_Trees_Homework\obj\Debug\04_DS_Trees_Homework.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\04_DS_Trees_Homework\obj\Debug\04_DS_Trees_Homework.pdb

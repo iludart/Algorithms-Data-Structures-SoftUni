@@ -1,0 +1,8 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P02.BiDictionary\bin\Debug\P02.BiDictionary.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P02.BiDictionary\bin\Debug\P02.BiDictionary.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P02.BiDictionary\bin\Debug\P02.BiDictionary.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P02.BiDictionary\bin\Debug\P01.StudentsAndCourses.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P02.BiDictionary\bin\Debug\P01.StudentsAndCourses.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P02.BiDictionary\obj\Debug\P02.BiDictionary.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P02.BiDictionary\obj\Debug\P02.BiDictionary.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P02.BiDictionary\obj\Debug\P02.BiDictionary.pdb

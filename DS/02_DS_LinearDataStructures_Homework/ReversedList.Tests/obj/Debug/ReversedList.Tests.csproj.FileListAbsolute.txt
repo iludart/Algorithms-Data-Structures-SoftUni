@@ -1,0 +1,8 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\ReversedList.Tests\bin\Debug\ReversedList.Tests.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\ReversedList.Tests\bin\Debug\ReversedList.Tests.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\ReversedList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\ReversedList.Tests\bin\Debug\P06.ReversedList.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\ReversedList.Tests\bin\Debug\P06.ReversedList.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\ReversedList.Tests\obj\Debug\ReversedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\ReversedList.Tests\obj\Debug\ReversedList.Tests.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\ReversedList.Tests\obj\Debug\ReversedList.Tests.pdb

@@ -1,0 +1,1 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\04.RemoveOddOccurences\bin\Debug\04.RemoveOddOccurences.exe.config

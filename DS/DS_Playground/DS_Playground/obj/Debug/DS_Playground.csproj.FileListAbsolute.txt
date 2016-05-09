@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\DS_Playground\DS_Playground\bin\Debug\DS_Playground.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\DS_Playground\DS_Playground\bin\Debug\DS_Playground.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\DS_Playground\DS_Playground\bin\Debug\DS_Playground.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\DS_Playground\DS_Playground\obj\Debug\DS_Playground.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\DS_Playground\DS_Playground\obj\Debug\DS_Playground.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\DS_Playground\DS_Playground\obj\Debug\DS_Playground.pdb

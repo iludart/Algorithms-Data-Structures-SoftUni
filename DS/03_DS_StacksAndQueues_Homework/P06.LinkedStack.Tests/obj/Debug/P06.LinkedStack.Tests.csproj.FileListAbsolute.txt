@@ -1,0 +1,8 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P06.LinkedStack.Tests\bin\Debug\P06.LinkedStack.Tests.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P06.LinkedStack.Tests\bin\Debug\P06.LinkedStack.Tests.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P06.LinkedStack.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P06.LinkedStack.Tests\bin\Debug\P05.LinkedStack.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P06.LinkedStack.Tests\bin\Debug\P05.LinkedStack.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P06.LinkedStack.Tests\obj\Debug\P06.LinkedStack.Tests.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P06.LinkedStack.Tests\obj\Debug\P06.LinkedStack.Tests.dll
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P06.LinkedStack.Tests\obj\Debug\P06.LinkedStack.Tests.pdb

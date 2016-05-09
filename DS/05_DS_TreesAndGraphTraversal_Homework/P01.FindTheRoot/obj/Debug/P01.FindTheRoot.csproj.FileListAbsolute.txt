@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P01.FindTheRoot\bin\Debug\P01.FindTheRoot.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P01.FindTheRoot\bin\Debug\P01.FindTheRoot.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P01.FindTheRoot\bin\Debug\P01.FindTheRoot.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P01.FindTheRoot\obj\Debug\P01.FindTheRoot.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P01.FindTheRoot\obj\Debug\P01.FindTheRoot.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P01.FindTheRoot\obj\Debug\P01.FindTheRoot.pdb

@@ -1,0 +1,5 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P05.CountOfOccurances\bin\Debug\P05.CountOfOccurances.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P05.CountOfOccurances\bin\Debug\P05.CountOfOccurances.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P05.CountOfOccurances\bin\Debug\P05.CountOfOccurances.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P05.CountOfOccurances\obj\Debug\P05.CountOfOccurances.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P05.CountOfOccurances\obj\Debug\P05.CountOfOccurances.pdb

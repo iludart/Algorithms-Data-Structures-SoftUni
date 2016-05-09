@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P05.LinkedStack\bin\Debug\P05.LinkedStack.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P05.LinkedStack\bin\Debug\P05.LinkedStack.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P05.LinkedStack\bin\Debug\P05.LinkedStack.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P05.LinkedStack\obj\Debug\P05.LinkedStack.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P05.LinkedStack\obj\Debug\P05.LinkedStack.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P05.LinkedStack\obj\Debug\P05.LinkedStack.pdb
