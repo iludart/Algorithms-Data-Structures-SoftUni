@@ -1,0 +1,8 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P02.RangeInTree\bin\Debug\P02.RangeInTree.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P02.RangeInTree\bin\Debug\P02.RangeInTree.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P02.RangeInTree\bin\Debug\P02.RangeInTree.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P02.RangeInTree\bin\Debug\P01.AvlTree.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P02.RangeInTree\bin\Debug\P01.AvlTree.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P02.RangeInTree\obj\Debug\P02.RangeInTree.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P02.RangeInTree\obj\Debug\P02.RangeInTree.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P02.RangeInTree\obj\Debug\P02.RangeInTree.pdb

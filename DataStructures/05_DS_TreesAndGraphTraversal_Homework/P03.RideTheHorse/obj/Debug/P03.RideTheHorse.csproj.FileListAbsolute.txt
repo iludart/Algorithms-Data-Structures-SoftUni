@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P03.RideTheHorse\bin\Debug\P03.RideTheHorse.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P03.RideTheHorse\bin\Debug\P03.RideTheHorse.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P03.RideTheHorse\bin\Debug\P03.RideTheHorse.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P03.RideTheHorse\obj\Debug\P03.RideTheHorse.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P03.RideTheHorse\obj\Debug\P03.RideTheHorse.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P03.RideTheHorse\obj\Debug\P03.RideTheHorse.pdb

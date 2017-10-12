@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P07.LinkedQueue\bin\Debug\P07.LinkedQueue.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P07.LinkedQueue\bin\Debug\P07.LinkedQueue.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P07.LinkedQueue\bin\Debug\P07.LinkedQueue.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P07.LinkedQueue\obj\Debug\P07.LinkedQueue.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P07.LinkedQueue\obj\Debug\P07.LinkedQueue.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P07.LinkedQueue\obj\Debug\P07.LinkedQueue.pdb

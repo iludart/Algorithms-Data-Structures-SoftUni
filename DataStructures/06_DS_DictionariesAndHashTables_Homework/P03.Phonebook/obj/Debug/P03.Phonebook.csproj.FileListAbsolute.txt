@@ -1,0 +1,8 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P03.Phonebook\bin\Debug\P03.Phonebook.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P03.Phonebook\bin\Debug\P03.Phonebook.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P03.Phonebook\bin\Debug\P03.Phonebook.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P03.Phonebook\bin\Debug\P01.Dictionary.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P03.Phonebook\bin\Debug\P01.Dictionary.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P03.Phonebook\obj\Debug\P03.Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P03.Phonebook\obj\Debug\P03.Phonebook.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P03.Phonebook\obj\Debug\P03.Phonebook.pdb

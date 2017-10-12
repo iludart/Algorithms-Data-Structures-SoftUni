@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P03.CalculateArithmeticExpression\bin\Debug\P03.CalculateArithmeticExpression.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P03.CalculateArithmeticExpression\bin\Debug\P03.CalculateArithmeticExpression.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P03.CalculateArithmeticExpression\bin\Debug\P03.CalculateArithmeticExpression.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P03.CalculateArithmeticExpression\obj\Debug\P03.CalculateArithmeticExpression.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P03.CalculateArithmeticExpression\obj\Debug\P03.CalculateArithmeticExpression.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P03.CalculateArithmeticExpression\obj\Debug\P03.CalculateArithmeticExpression.pdb

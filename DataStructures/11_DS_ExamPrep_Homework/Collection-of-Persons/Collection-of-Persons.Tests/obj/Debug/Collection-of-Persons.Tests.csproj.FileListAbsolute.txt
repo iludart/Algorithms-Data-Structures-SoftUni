@@ -1,0 +1,9 @@
+C:\Trash\10. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.Tests.dll
+C:\Trash\10. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.Tests.pdb
+C:\Trash\10. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.exe
+C:\Trash\10. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Trash\10. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\PowerCollections.dll
+C:\Trash\10. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.pdb
+C:\Trash\10. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons.Tests\obj\Debug\Collection-of-Persons.Tests.csprojResolveAssemblyReference.cache
+C:\Trash\10. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons.Tests\obj\Debug\Collection-of-Persons.Tests.dll
+C:\Trash\10. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons.Tests\obj\Debug\Collection-of-Persons.Tests.pdb

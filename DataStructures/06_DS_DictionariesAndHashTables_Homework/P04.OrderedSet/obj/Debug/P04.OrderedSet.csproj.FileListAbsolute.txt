@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P04.OrderedSet\bin\Debug\P04.OrderedSet.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P04.OrderedSet\bin\Debug\P04.OrderedSet.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P04.OrderedSet\bin\Debug\P04.OrderedSet.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P04.OrderedSet\obj\Debug\P04.OrderedSet.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P04.OrderedSet\obj\Debug\P04.OrderedSet.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P04.OrderedSet\obj\Debug\P04.OrderedSet.pdb

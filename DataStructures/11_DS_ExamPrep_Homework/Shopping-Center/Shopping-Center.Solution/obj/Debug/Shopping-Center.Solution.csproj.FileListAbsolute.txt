@@ -1,0 +1,8 @@
+C:\Trash\11. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\bin\Debug\Shopping-Center.exe
+C:\Trash\11. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\bin\Debug\Shopping-Center.pdb
+C:\Trash\11. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\bin\Debug\PowerCollections.dll
+C:\Trash\11. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\obj\Debug\Shopping-Center.Solution.csprojResolveAssemblyReference.cache
+C:\Trash\11. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\obj\Debug\Shopping-Center.exe
+C:\Trash\11. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\obj\Debug\Shopping-Center.pdb
+C:\Trash\10. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\obj\Debug\Shopping-Center.exe
+C:\Trash\10. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\obj\Debug\Shopping-Center.pdb

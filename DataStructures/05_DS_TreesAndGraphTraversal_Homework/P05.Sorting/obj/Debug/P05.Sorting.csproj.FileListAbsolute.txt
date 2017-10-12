@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P05.Sorting\bin\Debug\P05.Sorting.exe.config
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P05.Sorting\bin\Debug\P05.Sorting.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P05.Sorting\bin\Debug\P05.Sorting.pdb
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P05.Sorting\obj\Debug\P05.Sorting.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P05.Sorting\obj\Debug\P05.Sorting.exe
+C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P05.Sorting\obj\Debug\P05.Sorting.pdb
