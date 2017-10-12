@@ -1,8 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P03.TreeIndexing\bin\Debug\P03.TreeIndexing.exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P03.TreeIndexing\bin\Debug\P03.TreeIndexing.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P03.TreeIndexing\bin\Debug\P03.TreeIndexing.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P03.TreeIndexing\bin\Debug\P01.AvlTree.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P03.TreeIndexing\bin\Debug\P01.AvlTree.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P03.TreeIndexing\obj\Debug\P03.TreeIndexing.csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P03.TreeIndexing\obj\Debug\P03.TreeIndexing.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P03.TreeIndexing\obj\Debug\P03.TreeIndexing.pdb

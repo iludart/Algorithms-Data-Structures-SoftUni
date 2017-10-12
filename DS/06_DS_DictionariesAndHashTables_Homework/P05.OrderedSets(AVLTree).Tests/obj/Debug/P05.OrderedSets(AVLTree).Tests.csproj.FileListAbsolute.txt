@@ -1,8 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P05.OrderedSets(AVLTree).Tests\bin\Debug\P05.OrderedSets(AVLTree).Tests.dll
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P05.OrderedSets(AVLTree).Tests\bin\Debug\P05.OrderedSets(AVLTree).Tests.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P05.OrderedSets(AVLTree).Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P05.OrderedSets(AVLTree).Tests\bin\Debug\P05.OrderedSet(AVLTree).exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P05.OrderedSets(AVLTree).Tests\bin\Debug\P05.OrderedSet(AVLTree).pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P05.OrderedSets(AVLTree).Tests\obj\Debug\P05.OrderedSets(AVLTree).Tests.csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P05.OrderedSets(AVLTree).Tests\obj\Debug\P05.OrderedSets(AVLTree).Tests.dll
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P05.OrderedSets(AVLTree).Tests\obj\Debug\P05.OrderedSets(AVLTree).Tests.pdb

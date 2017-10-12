@@ -1,6 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\SkipList\SkipList\bin\Debug\SkipList.exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\SkipList\SkipList\bin\Debug\SkipList.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\SkipList\SkipList\bin\Debug\SkipList.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\SkipList\SkipList\obj\Debug\SkipList.csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\SkipList\SkipList\obj\Debug\SkipList.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\SkipList\SkipList\obj\Debug\SkipList.pdb

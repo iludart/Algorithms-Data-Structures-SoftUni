@@ -1,6 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P08.DistanceInLabyrinth\bin\Debug\P08.DistanceInLabyrinth.exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P08.DistanceInLabyrinth\bin\Debug\P08.DistanceInLabyrinth.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P08.DistanceInLabyrinth\bin\Debug\P08.DistanceInLabyrinth.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P08.DistanceInLabyrinth\obj\Debug\P08.DistanceInLabyrinth.csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P08.DistanceInLabyrinth\obj\Debug\P08.DistanceInLabyrinth.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P08.DistanceInLabyrinth\obj\Debug\P08.DistanceInLabyrinth.pdb
