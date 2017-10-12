@@ -1,6 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P02.RoundDance\bin\Debug\P02.RoundDance.exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P02.RoundDance\bin\Debug\P02.RoundDance.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P02.RoundDance\bin\Debug\P02.RoundDance.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P02.RoundDance\obj\Debug\P02.RoundDance.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P02.RoundDance\obj\Debug\P02.RoundDance.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P02.RoundDance\obj\Debug\P02.RoundDance.csprojResolveAssemblyReference.cache

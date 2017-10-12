@@ -1,8 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P08.LinkedQueue.Tests\bin\Debug\P08.LinkedQueue.Tests.dll
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P08.LinkedQueue.Tests\bin\Debug\P08.LinkedQueue.Tests.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P08.LinkedQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P08.LinkedQueue.Tests\bin\Debug\P07.LinkedQueue.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P08.LinkedQueue.Tests\bin\Debug\P07.LinkedQueue.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P08.LinkedQueue.Tests\obj\Debug\P08.LinkedQueue.Tests.csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P08.LinkedQueue.Tests\obj\Debug\P08.LinkedQueue.Tests.dll
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P08.LinkedQueue.Tests\obj\Debug\P08.LinkedQueue.Tests.pdb

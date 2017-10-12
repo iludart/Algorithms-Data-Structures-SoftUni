@@ -1,6 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P01.AvlTree\bin\Debug\P01.AvlTree.exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P01.AvlTree\obj\Debug\P01.AvlTree.csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P01.AvlTree\bin\Debug\P01.AvlTree.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P01.AvlTree\bin\Debug\P01.AvlTree.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P01.AvlTree\obj\Debug\P01.AvlTree.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\08_DS_AdvancedTreeStructures_Homework\P01.AvlTree\obj\Debug\P01.AvlTree.pdb

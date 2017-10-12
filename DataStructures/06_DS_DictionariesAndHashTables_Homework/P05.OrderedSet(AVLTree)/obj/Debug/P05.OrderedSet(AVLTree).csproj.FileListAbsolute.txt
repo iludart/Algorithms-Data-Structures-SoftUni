@@ -1,6 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P05.OrderedSet(AVLTree)\bin\Debug\P05.OrderedSet(AVLTree).exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P05.OrderedSet(AVLTree)\bin\Debug\P05.OrderedSet(AVLTree).exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P05.OrderedSet(AVLTree)\bin\Debug\P05.OrderedSet(AVLTree).pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P05.OrderedSet(AVLTree)\obj\Debug\P05.OrderedSet(AVLTree).csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P05.OrderedSet(AVLTree)\obj\Debug\P05.OrderedSet(AVLTree).exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\06_DS_DictionariesAndHashTables_Homework\P05.OrderedSet(AVLTree)\obj\Debug\P05.OrderedSet(AVLTree).pdb

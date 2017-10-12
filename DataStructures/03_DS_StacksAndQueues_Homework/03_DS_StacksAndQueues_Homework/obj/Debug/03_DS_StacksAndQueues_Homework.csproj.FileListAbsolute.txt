@@ -1,6 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\03_DS_StacksAndQueues_Homework\bin\Debug\03_DS_StacksAndQueues_Homework.exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\03_DS_StacksAndQueues_Homework\bin\Debug\03_DS_StacksAndQueues_Homework.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\03_DS_StacksAndQueues_Homework\bin\Debug\03_DS_StacksAndQueues_Homework.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\03_DS_StacksAndQueues_Homework\obj\Debug\03_DS_StacksAndQueues_Homework.csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\03_DS_StacksAndQueues_Homework\obj\Debug\03_DS_StacksAndQueues_Homework.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\03_DS_StacksAndQueues_Homework\obj\Debug\03_DS_StacksAndQueues_Homework.pdb

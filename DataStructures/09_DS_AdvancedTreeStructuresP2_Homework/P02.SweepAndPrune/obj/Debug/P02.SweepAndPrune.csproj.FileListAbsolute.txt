@@ -1,8 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\09_DS_AdvancedTreeStructuresP2_Homework\P02.SweepAndPrune\bin\Debug\P02.SweepAndPrune.exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\09_DS_AdvancedTreeStructuresP2_Homework\P02.SweepAndPrune\bin\Debug\P02.SweepAndPrune.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\09_DS_AdvancedTreeStructuresP2_Homework\P02.SweepAndPrune\bin\Debug\P02.SweepAndPrune.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\09_DS_AdvancedTreeStructuresP2_Homework\P02.SweepAndPrune\bin\Debug\P01.QuadTree.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\09_DS_AdvancedTreeStructuresP2_Homework\P02.SweepAndPrune\bin\Debug\P01.QuadTree.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\09_DS_AdvancedTreeStructuresP2_Homework\P02.SweepAndPrune\obj\Debug\P02.SweepAndPrune.csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\09_DS_AdvancedTreeStructuresP2_Homework\P02.SweepAndPrune\obj\Debug\P02.SweepAndPrune.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\09_DS_AdvancedTreeStructuresP2_Homework\P02.SweepAndPrune\obj\Debug\P02.SweepAndPrune.pdb

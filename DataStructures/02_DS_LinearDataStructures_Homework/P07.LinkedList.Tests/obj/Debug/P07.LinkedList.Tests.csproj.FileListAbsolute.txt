@@ -1,8 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P07.LinkedList.Tests\bin\Debug\P07.LinkedList.Tests.dll
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P07.LinkedList.Tests\bin\Debug\P07.LinkedList.Tests.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P07.LinkedList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P07.LinkedList.Tests\bin\Debug\P07.LinkedList.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P07.LinkedList.Tests\bin\Debug\P07.LinkedList.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P07.LinkedList.Tests\obj\Debug\P07.LinkedList.Tests.csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P07.LinkedList.Tests\obj\Debug\P07.LinkedList.Tests.dll
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\P07.LinkedList.Tests\obj\Debug\P07.LinkedList.Tests.pdb

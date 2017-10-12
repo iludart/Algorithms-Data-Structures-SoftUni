@@ -1,6 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\09_DS_AdvancedTreeStructuresP2_Homework\P01.QuadTree\bin\Debug\P01.QuadTree.exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\09_DS_AdvancedTreeStructuresP2_Homework\P01.QuadTree\bin\Debug\P01.QuadTree.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\09_DS_AdvancedTreeStructuresP2_Homework\P01.QuadTree\bin\Debug\P01.QuadTree.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\09_DS_AdvancedTreeStructuresP2_Homework\P01.QuadTree\obj\Debug\P01.QuadTree.csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\09_DS_AdvancedTreeStructuresP2_Homework\P01.QuadTree\obj\Debug\P01.QuadTree.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\09_DS_AdvancedTreeStructuresP2_Homework\P01.QuadTree\obj\Debug\P01.QuadTree.pdb

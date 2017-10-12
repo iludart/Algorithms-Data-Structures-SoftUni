@@ -1,6 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P04.LongestPathInATree\bin\Debug\P04.LongestPathInATree.exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P04.LongestPathInATree\bin\Debug\P04.LongestPathInATree.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P04.LongestPathInATree\bin\Debug\P04.LongestPathInATree.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P04.LongestPathInATree\obj\Debug\P04.LongestPathInATree.csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P04.LongestPathInATree\obj\Debug\P04.LongestPathInATree.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\05_DS_TreesAndGraphTraversal_Homework\P04.LongestPathInATree\obj\Debug\P04.LongestPathInATree.pdb

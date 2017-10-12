@@ -1,3 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\03.LongestSubsequence\bin\Debug\03.LongestSubsequence.exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\03.LongestSubsequence\obj\Debug\03.LongestSubsequence.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\03.LongestSubsequence\obj\Debug\03.LongestSubsequence.pdb

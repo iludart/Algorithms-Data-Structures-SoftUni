@@ -1,6 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\SumAndAverage\bin\Debug\SumAndAverage.exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\SumAndAverage\bin\Debug\SumAndAverage.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\SumAndAverage\bin\Debug\SumAndAverage.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\SumAndAverage\obj\Debug\01.SumAndAverage.csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\SumAndAverage\obj\Debug\SumAndAverage.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\02_DS_LinearDataStructures_Homework\SumAndAverage\obj\Debug\SumAndAverage.pdb

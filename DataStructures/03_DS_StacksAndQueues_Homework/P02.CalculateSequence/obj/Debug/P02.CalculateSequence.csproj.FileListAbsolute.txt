@@ -1,5 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P02.CalculateSequence\bin\Debug\P02.CalculateSequence.exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P02.CalculateSequence\bin\Debug\P02.CalculateSequence.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P02.CalculateSequence\bin\Debug\P02.CalculateSequence.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P02.CalculateSequence\obj\Debug\P02.CalculateSequence.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\03_DS_StacksAndQueues_Homework\P02.CalculateSequence\obj\Debug\P02.CalculateSequence.pdb

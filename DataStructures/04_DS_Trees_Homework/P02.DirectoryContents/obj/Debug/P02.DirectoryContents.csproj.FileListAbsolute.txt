@@ -1,8 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P02.DirectoryContents\bin\Debug\P02.DirectoryContents.exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P02.DirectoryContents\bin\Debug\P02.DirectoryContents.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P02.DirectoryContents\bin\Debug\P02.DirectoryContents.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P02.DirectoryContents\bin\Debug\04_DS_Trees_Homework.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P02.DirectoryContents\bin\Debug\04_DS_Trees_Homework.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P02.DirectoryContents\obj\Debug\P02.DirectoryContents.csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P02.DirectoryContents\obj\Debug\P02.DirectoryContents.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\04_DS_Trees_Homework\P02.DirectoryContents\obj\Debug\P02.DirectoryContents.pdb

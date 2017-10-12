@@ -1,8 +1,0 @@
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P03.CollectionOfProducts\bin\Debug\P03.CollectionOfProducts.exe.config
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P03.CollectionOfProducts\bin\Debug\P03.CollectionOfProducts.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P03.CollectionOfProducts\bin\Debug\P03.CollectionOfProducts.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P03.CollectionOfProducts\bin\Debug\P01.StudentsAndCourses.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P03.CollectionOfProducts\bin\Debug\P01.StudentsAndCourses.pdb
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P03.CollectionOfProducts\obj\Debug\P03.CollectionOfProducts.csprojResolveAssemblyReference.cache
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P03.CollectionOfProducts\obj\Debug\P03.CollectionOfProducts.exe
-C:\Users\peter\Documents\Visual Studio 2015\Projects\DS\10_DS_Efficiency_Homework\P03.CollectionOfProducts\obj\Debug\P03.CollectionOfProducts.pdb
